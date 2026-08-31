@@ -1,0 +1,6 @@
+{
+  "name": "BlockTools",
+  "description": "Smart tools for Minecraft players — fast, accurate calculators for Nether coordinates, item stacks, building materials, game time, and resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
